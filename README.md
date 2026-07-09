@@ -2,11 +2,6 @@
 
 I'm a Full-Stack Developer with a strong focus on web development, Java, and cloud engineering. I enjoy building scalable applications, tackling complex system architecture, and optimizing deployment workflows.
 
-### 🔭 What I'm currently working on
-* **code-collab**: A real-time collaborative code editor.
-* **digifix-car-marketplace**: A comprehensive mobile and web platform for auto parts.
-* Developing and architecting full-stack solutions including POS systems and event platforms.
-
 ### 🛠️ Tech Stack & Tools
 * **Languages:** JavaScript, TypeScript, Java
 * **Frontend & Mobile:** React.js, Next.js, React Native, Tailwind CSS, HTML5, CSS3
@@ -39,4 +34,4 @@ I'm a Full-Stack Developer with a strong focus on web development, Java, and clo
 
 ### 📫 Let's Connect
 * [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-* [Portfolio/Website](https://YOUR_WEBSITE.com)
+* [Portfolio/Website](https://shazan-portfolio.vercel.app/)
