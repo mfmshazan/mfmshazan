@@ -1,6 +1,6 @@
 # Hi there, I'm Shazan 👋
 
-I'm a Full-Stack Developer with a strong focus on web development, Java, and cloud engineering. I enjoy building scalable applications, tackling complex system architecture, and optimizing deployment workflows.
+I'm a Full-Stack Developer with a strong focus on web development and AI engineering. I enjoy building scalable applications, tackling complex system architecture, and optimizing deployment workflows.
 
 ### 🛠️ Tech Stack & Tools
 
