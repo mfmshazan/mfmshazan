@@ -26,11 +26,6 @@ Live demos and everything I'm building — all in one place:
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <a href="https://github.com/mfmshazan">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mfmshazan&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area_color=280336&area=true&hide_border=true" alt="Shazan's GitHub Activity Graph" />
-  </a>
-
   <br/>
   <br/>
   <a href="https://github.com/mfmshazan">
